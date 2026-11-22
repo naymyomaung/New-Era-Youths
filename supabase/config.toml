@@ -1,0 +1,5 @@
+[functions.game-name-auth]
+verify_jwt = false
+
+[functions.guild-data]
+verify_jwt = false
